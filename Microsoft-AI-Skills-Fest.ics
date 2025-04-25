@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Your Organization//NONSGML v1.0//EN
+BEGIN:VEVENT
+UID:event1@example.com
+DTSTAMP:20250306T120000Z
+DTSTART:20250407T230000Z
+DTEND:20250408T230000Z
+SUMMARY:Microsoft AI Skills Fest - Kickoff Celebration
+DESCRIPTION:Join us for the Kickoff Celebration where you'll get a chance to build and showcase your AI skills while attempting a GUINNESS WORLD RECORDS <sup>TM</sup> title. Get started: https://aka.ms/AISkillsFest
+LOCATION:Online
+END:VEVENT
+BEGIN:VEVENT
+UID:event2@example.com
+DTSTAMP:20250306T120000Z
+DTSTART:20250408
+DTEND:20250528
+SUMMARY:Microsoft AI Skills Fest - 50 Days of AI Learning
+DESCRIPTION:Deepen your AI skills with experiential content, hackathons, challenges and more. Get started: https://aka.ms/AISkillsFest
+LOCATION:Online
+END:VEVENT
+END:VCALENDAR
